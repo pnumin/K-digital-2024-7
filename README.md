@@ -11,7 +11,7 @@
 + 류어진(pnu40149) :
 + 문동윤(pnu40150) :
 + 박동헌(pnu40151) :
-+ 박영빈(pnu40152) : github.com/VinneyPark
++ 박영빈(pnu40152) : https://github.com/VinneyPark
 + 박정우(pnu40153) :
 + 박정현(pnu40154) :
 + 박준형(pnu40155) : https://github.com/pjh3383663
