@@ -26,6 +26,6 @@
 + 정우석(pnu40226) :
 + 제갈태은(pnu40227) :
 + 최고야(pnu40228) : 
-+ 최희진(pnu40229) : github.com/h22ding
++ 최희진(pnu40229) : http://github.com/h22ding
 + 한창록(pnu40230) : 
 
