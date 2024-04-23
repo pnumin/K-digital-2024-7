@@ -1,21 +1,22 @@
 # K-digital-2024-7
 
-+ 김경진(pnusw03) : https://github.com/pnumin
++ 김경진(pnusw03) : https://github.com/ThereIsNoAnswer
 + 김선신(pnu40142) :https://github.com/hahahahohohoho
 + 김성우(pnu40143) :
 + 김수경(pnu40144) :
 + 김주아(pnu40145) :
 + 김준수(pnu40146) :
 + 김현우(pnu40147) : https://github.com/khw1234
-+ 류성균(pnu40148) :
-+ 류어진(pnu40149) :
+ 
++ 류성균(pnu40148) : https://github.com/sungkyun-ryu 
++ 류어진(pnu40149) : https://github.com/St4rJ1n 
 + 문동윤(pnu40150) :
 + 박동헌(pnu40151) :
 + 박영빈(pnu40152) :
-+ 박정우(pnu40153) :
++ 박정우(pnu40153) : https://github.com/JAMINIZ
 + 박정현(pnu40154) :
 + 박준형(pnu40155) : https://github.com/pjh3383663
-+ 백이서(pnu40156) :
++ 백이서(pnu40156) : https://github.com/xixeo
 + 엄고운(pnu40157) :
 + 원세미나(pnu40231) :
 + 이민주(pnu40158) :
