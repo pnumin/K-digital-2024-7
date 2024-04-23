@@ -1,6 +1,6 @@
 # K-digital-2024-7
 
-+ 김경진(pnusw03) :
++ 김경진(pnusw03) : https://github.com/pnumin
 + 김선신(pnu40142) :
 + 김성우(pnu40143) :
 + 김수경(pnu40144) :
