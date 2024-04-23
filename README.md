@@ -8,14 +8,14 @@
 + 김준수(pnu40146) :
 + 김현우(pnu40147) : https://github.com/khw1234
 + 류성균(pnu40148) :
-+ 류어진(pnu40149) :
++ 류어진(pnu40149) : https://github.com/St4rJ1n
 + 문동윤(pnu40150) :
 + 박동헌(pnu40151) :
 + 박영빈(pnu40152) :
 + 박정우(pnu40153) :
 + 박정현(pnu40154) :
 + 박준형(pnu40155) : https://github.com/pjh3383663
-+ 백이서(pnu40156) :
++ 백이서(pnu40156) : https://github.com/xixeo
 + 엄고운(pnu40157) :
 + 원세미나(pnu40231) :
 + 이민주(pnu40158) :
