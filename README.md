@@ -7,7 +7,7 @@
 + 김주아(pnu40145) :
 + 김준수(pnu40146) :
 + 김현우(pnu40147) : https://github.com/khw1234
-+ 류성균(pnu40148) :
++ 류성균(pnu40148) : https://github.com/sungkyun-ryu
 + 류어진(pnu40149) :
 + 문동윤(pnu40150) :
 + 박동헌(pnu40151) :
