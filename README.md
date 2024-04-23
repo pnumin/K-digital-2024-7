@@ -3,7 +3,7 @@
 + 김경진(pnusw03) :
 + 김선신(pnu40142) :
 + 김성우(pnu40143) :
-+ 김수경(pnu40144) :
++ 김수경(pnu40144) : https://github.com/waterkyeong
 + 김주아(pnu40145) :
 + 김준수(pnu40146) :
 + 김현우(pnu40147) :
