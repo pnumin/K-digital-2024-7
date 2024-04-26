@@ -17,7 +17,7 @@
 + 박정현(pnu40154) :
 + 박준형(pnu40155) : https://github.com/pjh3383663
 + 백이서(pnu40156) : https://github.com/xixeo
-+ 엄고운(pnu40157) :
++ 엄고운(pnu40157) : https://github.com/EUMGOUN01
 + 원세미나(pnu40231) :
 + 이민주(pnu40158) :
 + 이세영(pnu40159) :
