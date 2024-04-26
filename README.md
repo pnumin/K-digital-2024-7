@@ -5,7 +5,6 @@
 + 김성우(pnu40143) : https://github.com/sipeporez/
 + 김수경(pnu40144) : https://github.com/waterkyeong
  
-+ 김주아(pnu40145) :
 + 김준수(pnu40146) :
 + 김현우(pnu40147) : https://github.com/khw1234
  
@@ -21,16 +20,13 @@
 
 + 박준형(pnu40155) : https://github.com/pjh3383663
 + 백이서(pnu40156) : https://github.com/xixeo
-+ 엄고운(pnu40157) :
-+ 원세미나(pnu40231) :
++ 엄고운(pnu40157) : 
 + 이민주(pnu40158) : https://github.com/2eemj000
 + 이세영(pnu40159) :
 + 이원규(pnu40160) :
 
 + 이지은(pnu40224) : https://github.com/flowerdeerjeannie
 + 이창수(pnu40225) :https://github.com/Leechangsuuu
- 
-+ 정우석(pnu40226) :
  
 + 제갈태은(pnu40227) : https://github.com/jgtaeeun
 + 최고야(pnu40228) : https://github.com/choikoya
