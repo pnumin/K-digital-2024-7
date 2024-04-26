@@ -25,7 +25,6 @@
 + 이민주(pnu40158) : https://github.com/2eemj000
  
 + 이세영(pnu40159) : https://github.com/llsy0101
-
 + 이원규(pnu40160) :
 
 + 이지은(pnu40224) : https://github.com/flowerdeerjeannie
