@@ -11,12 +11,14 @@
  
 + 류성균(pnu40148) : https://github.com/sungkyun-ryu 
 + 류어진(pnu40149) : https://github.com/St4rJ1n 
+
 + 문동윤(pnu40150) :
 + 박동헌(pnu40151) :
 
 + 박영빈(pnu40152) :https://github.com/VinneyPark
 + 박정우(pnu40153) : https://github.com/JAMINIZ 
 + 박정현(pnu40154) :
+
 + 박준형(pnu40155) : https://github.com/pjh3383663
 + 백이서(pnu40156) : https://github.com/xixeo
 + 엄고운(pnu40157) :
@@ -27,9 +29,10 @@
 + 이지은(pnu40224) : https://github.com/flowerdeerjeannie
 + 이창수(pnu40225) :
 + 정우석(pnu40226) :
-+ 제갈태은(pnu40227) :
  
++ 제갈태은(pnu40227) : https://github.com/jgtaeeun
 + 최고야(pnu40228) : https://github.com/choikoya
 + 최희진(pnu40229) : http://github.com/h22ding
+ 
 + 한창록(pnu40230) : 
 
