@@ -36,5 +36,4 @@
 + 최고야(pnu40228) : https://github.com/choikoya
 + 최희진(pnu40229) : http://github.com/h22ding
  
-+ 한창록(pnu40230) : 
-
++ 한창록(pnu40230) : https://github.com/loklok2
