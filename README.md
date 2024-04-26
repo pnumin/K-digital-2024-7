@@ -12,8 +12,9 @@
 + 류어진(pnu40149) : https://github.com/St4rJ1n 
 + 문동윤(pnu40150) :
 + 박동헌(pnu40151) :
-+ 박영빈(pnu40152) :
-+ 박정우(pnu40153) : https://github.com/JAMINIZ
+
++ 박영빈(pnu40152) :https://github.com/VinneyPark
++ 박정우(pnu40153) : https://github.com/JAMINIZ 
 + 박정현(pnu40154) :
 + 박준형(pnu40155) : https://github.com/pjh3383663
 + 백이서(pnu40156) : https://github.com/xixeo
