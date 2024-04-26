@@ -22,7 +22,7 @@
 + 이민주(pnu40158) :
 + 이세영(pnu40159) :
 + 이원규(pnu40160) :
-+ 이지은(pnu40224) :
++ 이지은(pnu40224) : https://github.com/flowerdeerjeannie
 + 이창수(pnu40225) :
 + 정우석(pnu40226) :
 + 제갈태은(pnu40227) :
