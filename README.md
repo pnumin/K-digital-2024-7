@@ -19,7 +19,7 @@
 + 백이서(pnu40156) : https://github.com/xixeo
 + 엄고운(pnu40157) :
 + 원세미나(pnu40231) :
-+ 이민주(pnu40158) :
++ 이민주(pnu40158) : https://github.com/2eemj000
 + 이세영(pnu40159) :
 + 이원규(pnu40160) :
 + 이지은(pnu40224) : https://github.com/flowerdeerjeannie
